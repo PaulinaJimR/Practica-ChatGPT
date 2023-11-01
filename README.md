@@ -113,3 +113,7 @@ while True:
     pass
 
 ```
+Imágenes de conexiones
+![](IMG-9413.png)
+![](IMG-9414.png)
+![](IMG-9415.png)
