@@ -104,10 +104,12 @@ def boton(p):
                  "text-davinci-003",
                   "Give me the name of a random country",
                  20)
-```
+
 # Configura una interrupción en el botón para llamar a button_callback cuando se presiona el botón
 cmd.irq(trigger=machine.Pin.IRQ_FALLING, handler=boton)
 
 while True:
     # Tu código principal puede continuar aquí
     pass
+
+```
